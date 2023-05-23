@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^9.22.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
